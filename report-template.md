@@ -5,7 +5,7 @@
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 We got good performance on WeightedEnsemble_L3 with the score of 52.663005 on the first submission, but we could improve it by tunning hyperparameters and creating new features.
 ### What was the top ranked model that performed?
-WeightedEnsemble_L3 with an RMSE of 52.663005
+WeightedEnsemble_L3 with an RMSE of 52.663005 on initial training
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
